@@ -315,7 +315,7 @@ hr
 {
     body
     {
-        border: 10px solid red;
+        /* border: 10px solid red; */
     }
     
     header nav
@@ -366,7 +366,7 @@ hr
 {
     body 
     {
-        border: 10px solid rgb(72, 255, 0);
+        /* border: 10px solid rgb(72, 255, 0); */
     }
     header nav
     {
